@@ -1,6 +1,8 @@
 [package]
 name = "mkv_to_wav"
+author = "Nestor Wheelock"
 description = "converts mkv to wav"
+license = "GNU GPLv3"
 version = "0.1.0"
 edition = "2021"
 
